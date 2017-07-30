@@ -1,2 +1,2 @@
 course := "scala"
-assignment := "week1"
+assignment := "week2"
